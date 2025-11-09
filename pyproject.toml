@@ -16,6 +16,7 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.12"
 google-adk = "^1.17.0"
+litellm = "^1.79.3"
 
 [tool.poetry.group.dev.dependencies]
 
