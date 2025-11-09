@@ -1,4 +1,4 @@
-from google.adk.agents.llm_agent import Agent
+from google.adk import Agent
 
 from .prompt import EXERCISE_PROMPT
 
